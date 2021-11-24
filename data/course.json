@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1f622301-6920-2c5b-e56f-ec70ddca51a0",
+      "34acea31-be99-7513-f7f3-a3e9fd6e80dd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Sustainable Design and Technology Research Workshop",
+  "course_description": "This workshop investigates the current state of sustainability in regards to architecture, from the level of the tectonic detail to the urban environment. Current research and case studies will be investigated, and students will propose their own solutions as part of the final project.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.183",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Design Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
